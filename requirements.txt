@@ -1,0 +1,14 @@
+
+#### requirements.txt
+
+List all the dependencies required for the project.
+
+```plaintext
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+tensorflow
+jupyter
